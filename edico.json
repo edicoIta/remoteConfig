@@ -1,5 +1,5 @@
 {
-    name: "edico",
-    version: "2.0.0.3",
-    url: "https://myurl.com/setup.exe"
+    "name": "edico",
+    "version": "2.0.0.3",
+    "url": "https://myurl.com/setup.exe"
 }
