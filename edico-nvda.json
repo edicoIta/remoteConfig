@@ -1,5 +1,9 @@
 {
     "name": "edico-nvda",
+<<<<<<< HEAD
     "version": "0.2",
+=======
+    "version": "0.3",
+>>>>>>> 398cb4362070632b81cca55c6f26f02f7408b019
     "url": "https://github.com/edicoIta/edico-nvda/releases/download/0.3/edico-0.3.nvda-addon"
 }
